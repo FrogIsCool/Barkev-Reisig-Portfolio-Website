@@ -1,1 +1,3 @@
-# Barkev-Reisig-Portfolio-Website
+# Barkev Reisig Portfolio Website
+
+My personal protfolio website built with React.
